@@ -1,0 +1,13 @@
+.point {
+    font-size: 20px;
+}
+
+.subpoint{
+    font-size: 22px;
+    margin-top: 2px;
+    color: rgb(0, 119, 255);
+}
+
+.point p{
+  font-weight: 600;  
+}
